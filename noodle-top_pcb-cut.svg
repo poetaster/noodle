@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="129mm"
+   version="1.2"
+   viewBox="0 0 113.38532 365.66897"
+   width="39.99968mm"
+   x="0in"
+   y="0in"
+   id="svg1335"
+   sodipodi:docname="noodle-top_pcb-cut.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1339" />
+  <sodipodi:namedview
+     id="namedview1337"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="1.5693415"
+     inkscape:cx="223.66069"
+     inkscape:cy="285.47006"
+     inkscape:window-width="1022"
+     inkscape:window-height="900"
+     inkscape:window-x="15"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     partID="872856090"
+     id="board"
+     transform="matrix(1,0,0,1.1727315,4.7683716e-8,-7.2702268e-4)"
+     inkscape:label="board"
+     style="fill:#0088d4;fill-opacity:1">
+    <path
+       id="boardoutline"
+       style="display:inline;fill:#0088d4;fill-opacity:1;stroke-width:2.45486"
+       d="M 4.7001651 1.5631864 C 2.8512089 1.5631864 1.3624984 4.259177 1.3624984 7.6075403 L 1.3624984 307.3308 C 1.3624984 310.67919 2.8512089 313.37391 4.7001651 313.37391 L 83.063923 313.37391 C 84.912878 313.37391 86.401589 310.67919 86.401589 307.3308 L 86.401589 7.6075403 C 86.401589 4.259177 84.912878 1.5631864 83.063923 1.5631864 L 4.7001651 1.5631864 z M 13.327781 36.863762 A 7.4409485 8.4599418 0 0 1 20.767768 45.323859 A 7.4409485 8.4599418 0 0 1 13.327781 53.783956 A 7.4409485 8.4599418 0 0 1 5.8866958 45.323859 A 7.4409485 8.4599418 0 0 1 13.327781 36.863762 z M 33.990993 129.87362 L 40.368595 129.87362 L 40.368595 141.95858 L 33.990993 141.95858 L 33.990993 129.87362 z M 33.930567 159.97422 L 40.30817 159.97422 L 40.30817 172.06043 L 33.930567 172.06043 L 33.930567 159.97422 z M 33.930567 197.06725 L 40.30817 197.06725 L 40.30817 209.15346 L 33.930567 209.15346 L 33.930567 197.06725 z M 33.930567 226.6932 L 40.30817 226.6932 L 40.30817 238.77816 L 33.930567 238.77816 L 33.930567 226.6932 z M 70.629521 257.43459 A 7.4409485 8.4599418 0 0 1 78.070606 265.89469 A 7.4409485 8.4599418 0 0 1 70.629521 274.35354 A 7.4409485 8.4599418 0 0 1 63.188436 265.89469 A 7.4409485 8.4599418 0 0 1 70.629521 257.43459 z M 33.930567 262.6458 L 40.30817 262.6458 L 40.30817 274.73201 L 33.930567 274.73201 L 33.930567 262.6458 z "
+       transform="matrix(1.33333,0,0,1,-1.81666,-1.56326)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="silkscreen" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="silkscreen0" />
+</svg>
