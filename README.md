@@ -9,6 +9,6 @@ Noodle uses a classic shift register (4015) combined with an analog mux (4051 x 
 This is NOT through to production yet. Just the breadboard view has been tested :)
 
 
-![pcb view](noodle_pcb.jpg)
-![schematic view](noodle_schem.jpg)
 ![breadboard view](noodle_bb.jpg)
+![schematic view](noodle_schem.jpg)
+![pcb view](noodle_pcb.jpg)
