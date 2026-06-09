@@ -2,10 +2,10 @@
 <!-- Created with Fritzing (https://fritzing.org/) -->
 
 <svg
-   height="129mm"
+   height="128mm"
    version="1.2"
-   viewBox="0 0 113.38532 365.66897"
-   width="39.99968mm"
+   viewBox="0 0 113.38531 362.83433"
+   width="39.999676mm"
    x="0in"
    y="0in"
    id="svg1335"
@@ -28,58 +28,30 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="1.5693415"
-     inkscape:cx="134.4513"
-     inkscape:cy="242.45839"
-     inkscape:window-width="1434"
+     inkscape:zoom="1.2497694"
+     inkscape:cx="199.23675"
+     inkscape:cy="292.45395"
+     inkscape:window-width="1270"
      inkscape:window-height="1047"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-x="13"
+     inkscape:window-y="44"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g798" />
+     inkscape:current-layer="svg1335" />
   <g
      partID="872856090"
      id="g815"
-     transform="matrix(1,0,0,1.1727315,4.7683716e-8,-7.2702268e-4)"
+     transform="matrix(1,0,0,1.1727315,-2.0614219e-6,-8.1330798e-4)"
      sodipodi:insensitive="true">
     <g
        id="board">
       <defs
          id="defs1531" />
-      <g
+      <path
+         id="boardoutline"
+         style="display:inline;fill:#0088d4;stroke-width:2.44533"
+         d="M 4.69999,1.56326 84.753473,1.5209394 C 86.602442,1.519962 86.4017,1.9728382 86.4017,7.5604275 V 307.64093 c 0,3.32243 0.263495,3.31622 -3.33749,3.31622 H 4.69999 c -3.0975531,0 -3.1909361,0.49943 -3.192099,-1.91185 L 1.3625,7.5604275 C 1.3601276,2.6409961 0.73282513,1.5653573 4.69999,1.56326 Z"
          transform="matrix(1.33333,0,0,1,-1.81666,-1.56326)"
-         id="g800">
-        <g
-           id="g798"
-           inkscape:label="g798">
-          <g
-             id="layer1"
-             stroke-width="2.45487"
-             inkscape:label="layer1">
-            <g
-               id="layer2"
-               stroke-width="2.45487"
-               style="display:inline"
-               inkscape:label="layer2">
-              <rect
-                 fill="#0088d4"
-                 fill-opacity="1"
-                 height="311.811"
-                 id="boardoutline"
-                 rx="3.3374901"
-                 ry="6.0440202"
-                 stroke="none"
-                 stroke-dasharray="none"
-                 stroke-opacity="1"
-                 stroke-width="2.45486"
-                 style="display:inline;stroke-miterlimit:4"
-                 width="85.0392"
-                 x="1.3625"
-                 y="1.56326" />
-            </g>
-          </g>
-        </g>
-      </g>
+         sodipodi:nodetypes="sssssssss" />
     </g>
   </g>
   <rect
@@ -87,74 +59,34 @@
      id="rect2009"
      width="8.5039673"
      height="14.173279"
-     x="43.423405"
-     y="306.17902" />
+     x="43.423401"
+     y="316.67899" />
   <rect
      style="fill:#000000;stroke-width:0.750003"
      id="rect2007"
      width="8.5039673"
      height="14.173279"
-     x="43.423405"
-     y="264.01608" />
+     x="43.423401"
+     y="274.51605" />
   <rect
      style="fill:#000000;stroke-width:0.750003"
      id="rect2005"
      width="8.5039673"
      height="14.173279"
-     x="43.423405"
-     y="229.27312" />
+     x="43.423401"
+     y="239.77309" />
   <rect
      style="fill:#000000;stroke-width:0.750003"
      id="rect2003"
      width="8.5039673"
      height="14.173279"
-     x="43.423405"
-     y="185.77293" />
+     x="43.423401"
+     y="196.2729" />
   <rect
      style="fill:#000000;stroke-width:0.750003"
      id="rect1949"
      width="8.5039673"
      height="14.173279"
-     x="43.503967"
-     y="150.47234" />
-  <g
-     partID="873468360"
-     id="g894"
-     transform="translate(4.7683716e-8,14.173278)">
-    <g
-       transform="translate(4.43187,25.6243)"
-       id="g892">
-      <g
-         id="g890">
-        <circle
-           cx="11.5212"
-           cy="11.5212"
-           fill="#000000"
-           id="nonconn0"
-           r="9.9212399"
-           stroke="#f9a435"
-           stroke-width="0" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="873469200"
-     id="g990"
-     transform="translate(4.7683716e-8,14.173278)">
-    <g
-       transform="translate(80.8342,284.294)"
-       id="g988">
-      <g
-         id="g986">
-        <circle
-           cx="11.5212"
-           cy="11.5212"
-           fill="#000000"
-           id="circle984"
-           r="9.9212399"
-           stroke="#f9a435"
-           stroke-width="0" />
-      </g>
-    </g>
-  </g>
+     x="43.503963"
+     y="160.97231" />
 </svg>
