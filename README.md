@@ -13,3 +13,7 @@ The gate ']['. out is obviously also wandering and is one of the 8 outputs not d
 ![breadboard view](noodle_bb.jpg)
 ![schematic view](noodle_schem.jpg)
 ![pcb view](noodle_pcb.jpg)
+
+# I sell stuff :)
+
+<a href="https://www.tindie.com/stores/poetaster/?ref=offsite_badges&utm_source=sellers_poetaster&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>. I'm also on bigcartel at https://tonetoys.bigcartel.com/
